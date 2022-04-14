@@ -1,10 +1,10 @@
 {
   "name": "nodejs-helloworld",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "description": "Hello World!",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js
+    "start": "node app.js"
   },
   "author": "Red Hat Training",
   "license": "ASL",
