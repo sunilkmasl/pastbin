@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "author": "Red Hat Training",
-  "license": "ASL",
+  "license": "ASL"
   "dependencies": {
     "express": "4.14.x"
   }
